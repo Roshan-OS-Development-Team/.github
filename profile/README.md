@@ -4,3 +4,4 @@ The development team for Roshan OS.
 ## Members
 * Roshan (Lead Developer)
 * zyqxun (Artist)
+* Macanautics (Artist)
