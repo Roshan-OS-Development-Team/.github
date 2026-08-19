@@ -5,8 +5,8 @@ The development team for Roshan OS.
 
 ### Developers
 * Roshan (Lead Developer)
+* Macanautics (App Developer)
 
 ### Artists
 * zyqxun (Artist)
-* Macanautics (Artist)
 * Hiul (Artist)
